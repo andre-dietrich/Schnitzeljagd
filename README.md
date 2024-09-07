@@ -80,7 +80,7 @@ Nun, da ihr alle jungen Wissenschaftler:innen seid, liegt es an euch, diese Rät
 
 ## Eure Mission
 
-    --{{0 Deutsch Female}}--
+    --{{0}}--
 Ihr werdet durch verschiedene Räume und Stationen des Hauses geführt, jedes mit einer speziellen Herausforderung, die Dr. Albrecht hinterlassen hat. Euer Ziel ist es, alle Rätsel zu lösen, die Hinweise zu sammeln und schließlich das versteckte Experiment zu finden, um Dr. Albrechts Werk zu vollenden und das Heilmittel ans Licht zu bringen.
 Seid mutig, bleibt neugierig und vertraut auf eure Fähigkeiten. Das Geheimnis von Dr. Friedrich Albrecht wartet darauf, von euch entdeckt zu werden!
 
